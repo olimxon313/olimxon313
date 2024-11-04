@@ -41,9 +41,12 @@
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=olimxon313&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olimxon313&theme=radical)
 
-### 📈 Дополнительная статистика
-![Коммиты](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=olimxon313&theme=2077)  
-![Звезды и форки](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=olimxon313&theme=2077)
+---
+
+## 📈 Дополнительная статистика
+- **Количество репозиториев**: ![Количество репозиториев](https://img.shields.io/badge/Repos-10-brightgreen)
+- **Количество звезд**: ![Количество звезд](https://img.shields.io/badge/Stargazers-20-yellow)
+- **Количество форков**: ![Количество форков](https://img.shields.io/badge/Forks-5-orange)
 
 ---
 
