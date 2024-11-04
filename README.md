@@ -42,15 +42,13 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olimxon313&theme=radical)
 
 ### 📈 Дополнительная статистика
-- **Коммиты за последний год**: ![Коммиты](https://github-readme-stats.vercel.app/api/commits?username=olimxon313&theme=radical)
-- **Количество открытых репозиториев**: ![Открытые репозитории](https://img.shields.io/badge/Открытые%20репозитории-10-brightgreen)
-- **Количество звезд**: ![Звезды](https://img.shields.io/badge/Звезды-20-yellow)
-- **Количество форков**: ![Форки](https://img.shields.io/badge/Форки-5-orange)
+![Коммиты](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=olimxon313&theme=2077)  
+![Звезды и форки](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=olimxon313&theme=2077)
 
 ---
 
 ## 👀 Посетители моего профиля
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=olimxon313)
+![Visitor Count](https://profile-counter.glitch.me/olimxon313/count.svg)
 
 ---
 
