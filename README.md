@@ -22,19 +22,33 @@
 ---
 
 ## 💻 Языки и инструменты
-- HTML
-- CSS
-- Bootstrap
-- Sass
-- JavaScript
-- React
-- JSON
-- NodeJS
-- ViteJS
-- npm
-- Python
-- Figma
-- Visual Studio Code
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Проекты
+- [Проект 1](https://github.com/ваш_проект_1) - Краткое описание
+- [Проект 2](https://github.com/ваш_проект_2) - Краткое описание
+
+---
+
+## 🎓 Образование
+- Учащийся в [название курса/учебного заведения]
+
+---
+
+## 🏆 Достижения
+- Участие в [название конкурса/мероприятия] - [результат]
 
 ---
 
@@ -47,9 +61,3 @@
 - [Telegram](https://t.me/ваш_никнейм)
 - [Gmail](mailto:ваш_email@gmail.com)
 
-
-
-<!---
-olimxon313/olimxon313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
