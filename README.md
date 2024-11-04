@@ -36,6 +36,24 @@
 
 ---
 
+## 📊 Статистика
+![Статистика](https://github-readme-stats.vercel.app/api?username=olimxon313&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=olimxon313&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olimxon313&theme=radical)
+
+### 📈 Дополнительная статистика
+- **Коммиты за последний год**: ![Коммиты](https://github-readme-stats.vercel.app/api/commits?username=olimxon313&theme=radical)
+- **Количество открытых репозиториев**: ![Открытые репозитории](https://img.shields.io/badge/Открытые%20репозитории-10-brightgreen)
+- **Количество звезд**: ![Звезды](https://img.shields.io/badge/Звезды-20-yellow)
+- **Количество форков**: ![Форки](https://img.shields.io/badge/Форки-5-orange)
+
+---
+
+## 👀 Посетители моего профиля
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=olimxon313)
+
+---
+
 ## 🚀 Проекты
 - [Проект 1](https://github.com/ваш_проект_1) - Краткое описание
 - [Проект 2](https://github.com/ваш_проект_2) - Краткое описание
@@ -52,12 +70,6 @@
 
 ---
 
-## 📊 Статистика
-![Статистика](https://github-readme-stats.vercel.app/api?username=olimxon313&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
 ## 🔗 Связаться со мной
 - [Telegram](https://t.me/ваш_никнейм)
 - [Gmail](mailto:ваш_email@gmail.com)
-
