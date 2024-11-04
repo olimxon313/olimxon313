@@ -11,7 +11,7 @@
 - Ищу возможности для сотрудничества в команде
 
 ### 📫 Как связаться
-- [Instagram](https://www.instagram.com/olimxon__313) или [Telegram](https://t.me/@olimx9n)
+- [Instagram](https://www.instagram.com/olimxon__313) или [Telegram](https://t.me/olimx9n)
 
 ### 😄 Местоимения
 - Он/Его
