@@ -49,9 +49,9 @@
 ---
 
 ## 🚀 Проекты
-- [Проект 1](https://shopex-r3f2.onrender.com/shop) - Сайт продаж продуктов
-- [Проект 2](https://foodi-restourant.vercel.app/) - Скоро!
-
+- [Проект 1](https://shopex-r3f2.onrender.com/) - Сайт продаж продуктов
+- [Проект 2](https://foodi-restourant.vercel.app/) - Сайт ресторант Foodi
+3](https://snappy-azure.vercel.app/) - Сайт мессенджер для общения.
 ---
 
 ## 🎓 Образование
