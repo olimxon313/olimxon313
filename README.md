@@ -50,7 +50,7 @@
 
 ## 🚀 Проекты
 - [Проект 1](https://shopex-r3f2.onrender.com/shop) - Сайт продаж продуктов
-- [Проект 2](https://github.com/ваш_проект_2) - Скоро!
+- [Проект 2](https://foodi-restourant.vercel.app/) - Скоро!
 
 ---
 
