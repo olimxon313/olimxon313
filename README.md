@@ -80,8 +80,9 @@ console.log("Hello World! 👋");
 
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite" />
 
-<div align="center">
 ---
+<div align="center">
+
 ## 📊 **GitHub Analytics**
 
 </div>
