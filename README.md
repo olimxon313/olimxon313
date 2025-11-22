@@ -1,24 +1,174 @@
-# 💫 About Me:
-🔭 I’m currently doing pet projects with Django<br>👯 I’m looking to collaborate on web apps and APIs<br>🤝 I’m looking for help with deploying projects & Docker<br>🌱 I’m currently learning DevOps basics and PostgreSQL<br>💬 Ask me about Python, web development, backend architecture<br>⚡ Fun fact Bugs follow me everywhere 🪲
+<div align="center">
 
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olimxon%20Axmatov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olimxon__313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/olimxon-akhmatov-b2343532a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@NextCodeZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:olimxcosmo@gmail.com) 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;Backend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=olimxon313&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=olimxon313&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olimxon313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Profile Views with Glass Effect -->
+<img src="https://komarev.com/ghpvc/?username=olimxon313&color=0891b2&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=olimxon313&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=olimxon313&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+## 🌟 **Обо мне**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+```javascript
+const olim = {
+    pronouns: "He/Him",
+    location: "🌍 Planet Earth",
+    role: "Full-Stack Developer",
+    languages: ["Russian", "English", "Uzbek"],
+    currentFocus: "Building amazing web apps",
+    hobbies: ["Coding", "Learning", "Problem Solving"],
+    motto: "Code, Learn, Repeat 🔄"
+};
+
+console.log("Hello World! 👋");
+```
+
+</td>
+<td width="50%">
+
+### 🎯 **Мои цели**
+- 🚀 Создавать инновационные веб-приложения
+- 📱 Разрабатывать современные интерфейсы
+- 🤖 Автоматизировать рутинные задачи
+- 🌱 Постоянно изучать новые технологии
+- 🤝 Делиться знаниями с сообществом
+
+</td>
+</tr>
+</table>
+---
+
+<div align="center">
+
+## 🚀 **Технологический арсенал**
+
+</div>
+
+### 🎨 **Frontend Development**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,sass,bootstrap" />
+
+</div>
+
+### ⚙️ **Backend Development**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django" />
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white&labelColor=02569B)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=010101)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
+</div>
+
+### 🗄️ **Databases**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite" />
+
+<div align="center">
+---
+## 📊 **GitHub Analytics**
+
+</div>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=olimxon313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olimxon313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olimxon313&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" width="70%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=olimxon313&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Достижения**
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=olimxon313&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📬 **Связаться со мной**
+
+</div>
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@olimx9n)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olimxcosmo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olimxon313)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://resumeolimxon.vercel.app)
+
+</div>
+
+
+---
+
+<div align="center">
+
+## 🌈 **Fun Zone**
+
+</div>
+
+<div align="center">
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Developer Quote**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
